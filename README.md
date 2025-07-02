@@ -7,4 +7,4 @@ The workshop happened during the Annual Conference for Cognitive Science (a prem
 The workshop talked about the analysis techniques for multi-channel electrogastrogram data. It was a workhop for the clinicians from NIMHANS, a centrally funded institution for mental disorders research in India.
 
 ## 3. ACCS Workshop 2024
-The workshop happened during the Annual Conference for Cognitive Science on December 2024. It was a culmination of the techniques I have learnt up to that period of my research assistantship for analyzing simultaneous EEG and EGG data. 
+The workshop happened during the Annual Conference for Cognitive Science on December 2024. It was a culmination of the techniques I had learnt up to that period of my research assistantship for analyzing simultaneous EEG and EGG data. 
